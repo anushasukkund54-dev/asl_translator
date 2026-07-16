@@ -1,0 +1,12 @@
+# Ignore Python virtual environments
+venv/
+env/
+.venv/
+
+# Ignore Python temporary cache files
+__pycache__/
+*.pyc
+
+# Ignore system/editor specific files
+.DS_Store
+.ipynb_checkpoints/
